@@ -9,5 +9,6 @@ The only command that this extension provides is: `GIF Viewer: View gif from URL
 
 ## Future plans
 Althogh I might consider this extension to be immaculate, there would possibly be some improvments in the future:
-1. Ability to save GIF from a URL
-2. Adding a custom webview with fancy HTML input tags
+1. Processing of invalid links 
+2. Ability to save GIF from a URL
+3. Adding a custom webview with fancy HTML input tags
